@@ -1,5 +1,5 @@
 {
-  "name": "algorithm-visualizer",
+  "name": "Sorting-visualizer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,6 +7,8 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "ajv": "^6.12.6",
+    "ajv-keywords": "^3.5.2",
     "bootstrap": "^5.3.7",
     "konva": "^9.3.22",
     "react": "^18.2.0",
